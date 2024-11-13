@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|c:\\users\\user\\source\\repos\\eventmgt_system\\eventmgt_system\\views\\eventdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|solutionrelative:eventmgt_system\\views\\eventdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|c:\\users\\user\\source\\repos\\eventmgt_system\\eventmgt_system\\views\\eventdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|solutionrelative:eventmgt_system\\views\\eventdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|c:\\users\\user\\source\\repos\\eventmgt_system\\eventmgt_system\\views\\eventregistrations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|solutionrelative:eventmgt_system\\views\\eventregistrations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|c:\\users\\user\\source\\repos\\eventmgt_system\\eventmgt_system\\views\\attendees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|solutionrelative:eventmgt_system\\views\\attendees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|c:\\users\\user\\source\\repos\\eventmgt_system\\eventmgt_system\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|solutionrelative:eventmgt_system\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|c:\\users\\user\\source\\repos\\eventmgt_system\\eventmgt_system\\views\\eventtypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|solutionrelative:eventmgt_system\\views\\eventtypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|c:\\users\\user\\source\\repos\\eventmgt_system\\eventmgt_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|solutionrelative:eventmgt_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|c:\\users\\user\\source\\repos\\eventmgt_system\\eventmgt_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|solutionrelative:eventmgt_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|c:\\users\\user\\source\\repos\\eventmgt_system\\eventmgt_system\\controllers\\eventregistrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|solutionrelative:eventmgt_system\\controllers\\eventregistrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|c:\\users\\user\\source\\repos\\eventmgt_system\\eventmgt_system\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|solutionrelative:eventmgt_system\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|c:\\users\\user\\source\\repos\\eventmgt_system\\eventmgt_system\\controllers\\eventdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|solutionrelative:eventmgt_system\\controllers\\eventdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|c:\\users\\user\\source\\repos\\eventmgt_system\\eventmgt_system\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|solutionrelative:eventmgt_system\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|c:\\users\\user\\source\\repos\\eventmgt_system\\eventmgt_system\\views\\eventtypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CE23F86-EB1B-4038-9170-47F785EF54D4}|EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM.csproj|solutionrelative:eventmgt_system\\views\\eventtypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\EventTypes\\Create.cshtml",
+              "RelativeDocumentMoniker": "EVENTMGT_SYSTEM\\Views\\EventTypes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\EventTypes\\Create.cshtml",
+              "RelativeToolTip": "EVENTMGT_SYSTEM\\Views\\EventTypes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T05:36:23.314Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\EventDetails\\Create.cshtml",
+              "RelativeDocumentMoniker": "EVENTMGT_SYSTEM\\Views\\EventDetails\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\EventDetails\\Create.cshtml",
+              "RelativeToolTip": "EVENTMGT_SYSTEM\\Views\\EventDetails\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T06:40:35.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\EventRegistrations\\Index.cshtml",
+              "RelativeDocumentMoniker": "EVENTMGT_SYSTEM\\Views\\EventRegistrations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\EventRegistrations\\Index.cshtml",
+              "RelativeToolTip": "EVENTMGT_SYSTEM\\Views\\EventRegistrations\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T06:33:25.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\Attendees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EVENTMGT_SYSTEM\\Views\\Attendees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\Attendees\\Index.cshtml",
+              "RelativeToolTip": "EVENTMGT_SYSTEM\\Views\\Attendees\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T06:31:45.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\EventDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "EVENTMGT_SYSTEM\\Views\\EventDetails\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\EventDetails\\Index.cshtml",
+              "RelativeToolTip": "EVENTMGT_SYSTEM\\Views\\EventDetails\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T06:29:47.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\Venues\\Index.cshtml",
+              "RelativeDocumentMoniker": "EVENTMGT_SYSTEM\\Views\\Venues\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\Venues\\Index.cshtml",
+              "RelativeToolTip": "EVENTMGT_SYSTEM\\Views\\Venues\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T06:20:02.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\EventTypes\\Index.cshtml",
+              "RelativeDocumentMoniker": "EVENTMGT_SYSTEM\\Views\\EventTypes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\EventTypes\\Index.cshtml",
+              "RelativeToolTip": "EVENTMGT_SYSTEM\\Views\\EventTypes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T06:17:09.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EVENTMGT_SYSTEM\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EVENTMGT_SYSTEM\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T06:11:00.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventRegistrationsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Controllers\\EventRegistrationsController.cs",
+              "RelativeDocumentMoniker": "EVENTMGT_SYSTEM\\Controllers\\EventRegistrationsController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Controllers\\EventRegistrationsController.cs",
+              "RelativeToolTip": "EVENTMGT_SYSTEM\\Controllers\\EventRegistrationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:59:09.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AttendeesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Controllers\\AttendeesController.cs",
+              "RelativeDocumentMoniker": "EVENTMGT_SYSTEM\\Controllers\\AttendeesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Controllers\\AttendeesController.cs",
+              "RelativeToolTip": "EVENTMGT_SYSTEM\\Controllers\\AttendeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:58:42.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Controllers\\EventDetailsController.cs",
+              "RelativeDocumentMoniker": "EVENTMGT_SYSTEM\\Controllers\\EventDetailsController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Controllers\\EventDetailsController.cs",
+              "RelativeToolTip": "EVENTMGT_SYSTEM\\Controllers\\EventDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:58:14.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "EVENTMGT_SYSTEM\\Controllers\\VenuesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "EVENTMGT_SYSTEM\\Controllers\\VenuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:56:44.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EVENTMGT_SYSTEM\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\EVENTMGT_SYSTEM\\EVENTMGT_SYSTEM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EVENTMGT_SYSTEM\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T14:25:31.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

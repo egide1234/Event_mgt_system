@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RSVPDBModelStoreContainer" CdmEntityContainer="RSVPDBEntities">
+    <EntitySetMapping Name="Attendees">
+      <EntityTypeMapping TypeName="RSVPDBModel.Attendee">
+        <MappingFragment StoreEntitySet="Attendee">
+          <ScalarProperty Name="uuid" ColumnName="uuid" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="phoneNo" ColumnName="phoneNo" />
+          <ScalarProperty Name="fullname" ColumnName="fullname" />
+          <ScalarProperty Name="address" ColumnName="address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EventDetails">
+      <EntityTypeMapping TypeName="RSVPDBModel.EventDetail">
+        <MappingFragment StoreEntitySet="EventDetails">
+          <ScalarProperty Name="uuid" ColumnName="uuid" />
+          <ScalarProperty Name="eventName" ColumnName="eventName" />
+          <ScalarProperty Name="eventDescription" ColumnName="eventDescription" />
+          <ScalarProperty Name="venue" ColumnName="venue" />
+          <ScalarProperty Name="eventDate" ColumnName="eventDate" />
+          <ScalarProperty Name="eventTime" ColumnName="eventTime" />
+          <ScalarProperty Name="eventType" ColumnName="eventType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EventRegistrations">
+      <EntityTypeMapping TypeName="RSVPDBModel.EventRegistration">
+        <MappingFragment StoreEntitySet="EventRegistration">
+          <ScalarProperty Name="uuid" ColumnName="uuid" />
+          <ScalarProperty Name="enentId" ColumnName="enentId" />
+          <ScalarProperty Name="attendee" ColumnName="attendee" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EventTypes">
+      <EntityTypeMapping TypeName="RSVPDBModel.EventType">
+        <MappingFragment StoreEntitySet="EventType">
+          <ScalarProperty Name="uuid" ColumnName="uuid" />
+          <ScalarProperty Name="typeEvent" ColumnName="typeEvent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Venues">
+      <EntityTypeMapping TypeName="RSVPDBModel.Venue">
+        <MappingFragment StoreEntitySet="Venue">
+          <ScalarProperty Name="uuid" ColumnName="uuid" />
+          <ScalarProperty Name="place" ColumnName="place" />
+          <ScalarProperty Name="adress" ColumnName="adress" />
+          <ScalarProperty Name="capacity" ColumnName="capacity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
